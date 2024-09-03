@@ -7,4 +7,4 @@ to recognize faces using CiRA CORE with the following details:
 4. Send the name and date/time information back to the Line chat bot.
 5. Record the name and date/time in Google Sheets.
 
-
+(![alt text](https://github.com/thawat0411/CiRA-CORE-PJ/blob/main/CiRAimg.png))
